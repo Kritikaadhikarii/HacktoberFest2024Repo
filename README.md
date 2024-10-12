@@ -1,7 +1,5 @@
 # HacktoberFest 2024 - Open Source Contributions 🎉
 
-![Hacktoberfest](https://hacktoberfest.com/_nuxt/img/logo.ee8db4f.svg)
-
 Welcome to the **HacktoberFest 2024** repository! 🎃 This repo is dedicated to encouraging and helping developers of all levels to contribute to open-source projects. If you’re new to open source, this is a great opportunity to start. We’re glad to have you here!
 
 
@@ -56,10 +54,12 @@ Feel free to add your own project ideas or enhance existing projects!
 ## Submitting a Pull Request
 
 When you submit a pull request:
-1. Ensure your PR description clearly explains what you’ve done.
-2. Reference the issue number you are addressing (e.g., `Closes #3`).
-3. Make sure your code follows the code of conduct
-4. Be patient – A maintainer will review your pull request. If changes are needed, they will let you know.
+1. Add a screenshot of proof of staring the repo.
+2. Ensure your PR description clearly explains what you’ve done.
+3. Reference the issue number you are addressing (e.g., `Closes #3`).
+4. Add a screenshot of the output of the code.
+5. Make sure your code follows the code of conduct
+6. Be patient – A maintainer will review your pull request. If changes are needed, they will let you know.
 
 ## Maintainers and Reviewers
 
